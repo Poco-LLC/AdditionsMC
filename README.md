@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/github/license/Poco-LLC/AdditionsMC)
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Poco-LLC/AdditionsMC?include_prereleases)
 
-Source for AdditionsMC Java mod!
+Source for AdditionsMC Minecraft Java Edition mod!
 
 Note: everythinng below v1.3.0 is deprecated. I am drowning while trying to clean up everything aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
@@ -25,9 +25,9 @@ Q. Why doesn't it work on a server?
 A. It is client-side only. A server-side version will only be released if enough people want it.
 
 
-Q. Are there questions fake?
+Q. Are these questions fake?
 
-A. The client-side and server-side one i real. *This* question is fake.
+A. The client-side and server-side one is real. *This* question is fake.
 
 
 Q. ?
